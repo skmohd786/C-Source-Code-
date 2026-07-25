@@ -1,0 +1,49 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+*.lo
+
+# Static libraries
+*.a
+*.lib
+
+# Shared libraries
+*.dll
+*.so
+*.dylib
+
+# Debug files
+*.pdb
+*.idb
+*.ilk
+
+# Build folders
+build/
+Build/
+bin/
+Debug/
+Release/
+cmake-build-*/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# VS Code
+.vscode/ipch/
+
+# Visual Studio
+.vs/
+
+# Temporary files
+*.tmp
+*.log
+*.cache
